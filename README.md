@@ -43,6 +43,3 @@ This repository serves as a hub for all my FPS mechanics, visuals, sound effects
 - Potential multiplayer functionality (*wink* *wink* *cries*).
 
 Stay tuned for more updates!
-
-
-That is it for now! I will be updating these here and there! Maybe hope for some multiplayer in the future *wink* *wink* *cries*
