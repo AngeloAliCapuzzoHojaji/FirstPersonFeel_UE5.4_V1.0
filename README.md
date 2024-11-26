@@ -1,23 +1,48 @@
-Hello to anyone (if at all) to this Unreal Engine 5.4 project!
+# Unreal Engine 5.4 FPS Project
 
-This serves as a hub for all my fps mechanics, visuals, sfx, and other stuff you would find in a fps.
-Feel free to use it however you like.
+Welcome to this Unreal Engine 5.4 project!
 
-So far I will list what I have implemented, as well as sources if applicable:
+This repository serves as a hub for all my FPS mechanics, visuals, sound effects (SFX), and other features you would typically find in a first-person shooter. Feel free to use it however you like!
 
-All copied from OCTAHEDRON's playlist with minor modifications:
-https://www.youtube.com/watch?v=TrS5oaimIII&list=PLxYB4IVFm8q6tf3boC1Nm4A8AB2RMCpXn
+## Features Implemented So Far
 
--Procedural Animations, viemodel sway, dipping, rotation, and camera shake
+### Procedural Animations
+- Viewmodel sway, dipping, rotation, and camera shake.
 
--Sprinting, crouching, sliding, aim down sights, and double jumping
+### Movement Mechanics
+- Sprinting.
+- Crouching.
+- Sliding.
+- Aim Down Sights (ADS).
+- Double jumping.
 
--Weapon rifle (very wip) with basic functinality like reloading and firing with currently no mag
+### Weapon Mechanics
+- A basic rifle (work in progress) with:
+  - Basic firing functionality.
+  - Reloading functionality.
+  - No magazine implementation yet.
 
--Widget based center reticle that inherits some procedural movement albiet very minor movement
+### UI Features
+- Widget-based center reticle with minor procedural movement.
 
-Copied from Jack French's video about the material but also referenced in OCTAHEDRON's Part 5 Video:
+### Depth Pass
+- Prevents the viewmodel from clipping into world geometry.
 
--Depth pass for viewmodel so it never clips into world geometry
+## Sources
+
+### OCTAHEDRON's Playlist
+- Many features, including procedural animations and movement mechanics, were adapted from OCTAHEDRON's tutorials with minor modifications.
+- [Watch the playlist here](https://www.youtube.com/watch?v=TrS5oaimIII&list=PLxYB4IVFm8q6tf3boC1Nm4A8AB2RMCpXn).
+
+### Jack French's Material Tutorial
+- Depth pass implementation for the viewmodel was based on Jack French's video.
+- Also referenced in OCTAHEDRON's Part 5 video.
+
+## Future Plans
+- Continued updates to existing features.
+- Potential multiplayer functionality (*wink* *wink* *cries*).
+
+Stay tuned for more updates!
+
 
 That is it for now! I will be updating these here and there! Maybe hope for some multiplayer in the future *wink* *wink* *cries*
